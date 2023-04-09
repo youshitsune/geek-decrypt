@@ -54,7 +54,18 @@ flags = {
         " ": "I'm a geek of average roundness.",
         "-": "Everyone tells me to gain a few pounds.",
         "--": "I tend to have to fight against a strong breeze.",
-        "---": "My bones are poking through my skin."
+        "---": "My bones are poking through my skin.",
+        "a+++": "60 and up",
+        "a++": "50-59",
+        "a+": "40-49",
+        "a": "30-39",
+        "a-": "25-29",
+        "a--": "20-24",
+        "a---": "15-19",
+        "a----": "10-14",
+        "a-----": "9 and under (Geek is training?)",
+        "a?": "immortal",
+        "!a": "it's none of your business how old I am"
         }
 
 dec = []
