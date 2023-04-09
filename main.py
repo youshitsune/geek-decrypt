@@ -65,7 +65,15 @@ flags = {
         "a----": "10-14",
         "a-----": "9 and under (Geek is training?)",
         "a?": "immortal",
-        "!a": "it's none of your business how old I am"
+        "!a": "it's none of your business how old I am",
+        "C++++": "I'll be first in line to get the new cybernetic interface installed into my skull.",
+        "C+++": "You mean there is life outside of Internet? You're shittin' me! I haven't dragged myself to class in weeks.",
+        "C++": "Computers are a large part of my existence. When I get up in the morning, the first thing I do is log myself in. I play games or mud on weekends, but still manage to stay off of academic probation.",
+        "C+": "Computers are fun and I enjoy using them. I play a mean game of DOOM! and can use a word processor without resorting to the manual too often. I know that a 3.5\" disk is not a hard disk. I also know that when it says 'press any key to continue', I don't have to look for a key labeled 'ANY'.",
+        "C": "Computers are a tool, nothing more. I use it when it serves my purpose.",
+        "C-": "Anything more complicated than my calculator and I'm screwed.",
+        "C--": "Where's the on switch?",
+        "C---": "If you even mention computers, I will rip your head off!"
         }
 
 dec = []
