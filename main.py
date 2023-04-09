@@ -40,7 +40,14 @@ flags = {
         "dx": "Cross Dresser",
         "d?": "I have no idea what I am wearing right now, let alone what I wore yesterday.",
         "!d": "No clothing. Quite a fashion statement, don't you think?",
-        "dpu": "I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings."
+        "dpu": "I wear the same clothes all the time, no matter the occasion, forgetting to do laundry between wearings.",
+        "s+++": "I usually have to duck through doors.",
+        "s++": "I'm a basketball candidate.",
+        "s+": "I'm a little taller than most.",
+        "s": "I'm a geek of average height.",
+        "s-": "I look up to most people.",
+        "s--": "I look up to damn near everybody.",
+        "s---": "I take a phone book with me when I go out so I can see to eat dinner."
         }
 
 dec = []
