@@ -47,7 +47,14 @@ flags = {
         "s": "I'm a geek of average height.",
         "s-": "I look up to most people.",
         "s--": "I look up to damn near everybody.",
-        "s---": "I take a phone book with me when I go out so I can see to eat dinner."
+        "s---": "I take a phone book with me when I go out so I can see to eat dinner.",
+        "+++": "I take up three movie seats.",
+        "++": "I'm a linebacker candidate.",
+        "+": "I'm a little rounder than most.",
+        " ": "I'm a geek of average roundness.",
+        "-": "Everyone tells me to gain a few pounds.",
+        "--": "I tend to have to fight against a strong breeze.",
+        "---": "My bones are poking through my skin."
         }
 
 dec = []
