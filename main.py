@@ -183,7 +183,14 @@ flags = {
         "V+": "I tend to like VMS better than Unix",
         "V": "I've used VMS.",
         "V-": "Unix is much better than VMS for my computing needs.",
-        "V--": "I would rather smash my head repeatedly into a brick wall than suffer the agony of working with VMS. It's reminiscent of a dead and decaying pile of moose droppings. Unix rules the universe."
+        "V--": "I would rather smash my head repeatedly into a brick wall than suffer the agony of working with VMS. It's reminiscent of a dead and decaying pile of moose droppings. Unix rules the universe.",
+        "PS+++": "Legalize drugs! Abolish the government. \"Fuck the draft!\"",
+        "PS++": "I give to liberal causes. I march for gay rights. I'm a card carrying member of the ACLU. Keep abortion safe and legal.",
+        "PS+": "My whole concept of liberalism is that nobody has the right to tell anybody else what to do, on either side of the political fence. If you don't like it, turn the bloody channel.",
+        "PS": "I really don't have an opinion; nobody's messing with my freedoms right now.",
+        "PS-": "Label records! Keep dirty stuff off the TV and the Internet.",
+        "PS--": "Oppose sex education, abortion rights, gay rights. Rush Limbaugh is my spokesman.",
+        "PS---": "Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in '96."
         }
 
 dec = []
