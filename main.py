@@ -73,7 +73,27 @@ flags = {
         "C": "Computers are a tool, nothing more. I use it when it serves my purpose.",
         "C-": "Anything more complicated than my calculator and I'm screwed.",
         "C--": "Where's the on switch?",
-        "C---": "If you even mention computers, I will rip your head off!"
+        "C---": "If you even mention computers, I will rip your head off!",
+        "B": "BSD",
+        "L": "Linux",
+        "U": "Ultrix",
+        "A": "AIX",
+        "V": "SysV",
+        "H": "HPUX",
+        "I": "IRIX",
+        "O": "OSF/1",
+        "S": "Sun OS/Solaris",
+        "C": "SCO Unix",
+        "X": "NeXT",
+        "*": "Some other not listed",
+        "U++++": "I am the sysadmin. If you try and crack my machine don't be surprised if the municipal works department gets an "accidental" computer-generated order to put start a new landfill on your front lawn or your quota is reduced to 4K.",
+        "U+++": "I don't need to crack /etc/passwd because I just modified su so that it doesn't prompt me. The admin staff doesn't even know I'm here. If you don't understand what I just said, this category does NOT apply to you!",
+        "U++": "I've get the entire admin ticked off at me because I am always using all of the CPU time and trying to run programs that I don't have access to. I'm going to try cracking /etc/passwd next week, just don't tell anyone.",
+        "U+": "I not only have a Unix account, but I slam VMS any chance get.",
+        "U": "I have a Unix account to do my stuff in",
+        "U-": "I have a VMS account.",
+        "U--": "I've seen Unix and didn't like it. DEC rules!",
+        "U---": "Unix geeks are actually nerds in disguise."
         }
 
 dec = []
