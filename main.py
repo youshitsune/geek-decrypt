@@ -164,7 +164,15 @@ flags = {
         "w": "Ok, so I use MS Windows, I don't have to like it.",
         "w-": "I'm still trying to install MS Windows and have at least one peripheral that never works right",
         "w--": "MS Windows is a joke operating system. Hell, it's not even an operating system. NT is Not Tough enough for me either. 95 is how may times it will crash an hour.",
-        "w---": "Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt."
+        "w---": "Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt.",
+        "O+++": "I live, eat and breathe OS/2. All of my hard drives are HPFS. I am the Anti-Gates.",
+        "O++": "I use OS/2 for all my computing needs. I use some DOS and Windows programs, but rune them under OS/2. If the program won't run under OS/2, then obviously I don't need it.",
+        "O+": "I keep a DOS partition on my hard drive "just in case". I'm afraid to try HPFS.",
+        "O": "I finally managed to get OS/2 installed but wasn't too terribly impressed.",
+        "O-": "Tried it, didn't like it.",
+        "O--": "I can't even get the thing to install!",
+        "O---": "Windows RULES!!! Long live Bill Gates. (See w++++)",
+        "O----": "I am Bill Gates of Borg. OS/2 is irrelevant."
         }
 
 dec = []
