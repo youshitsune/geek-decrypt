@@ -127,7 +127,17 @@ flags = {
         "W+": "I have the latest version of Netscape, and wander the web only when there's something specific I'm looking for.",
         "W": "I have a browser and a connection. Occasionally I'll use them.",
         "W-": "The web is really a pain. Life was so much easier when you could transfer information by simple ASCII. Now everyone won't even consider your ideas unless you spiff them up with bandwidth-consuming pictures and pointless information links.",
-        "W--": "A pox on the Web! It wastes time and bandwidth and just gives the uneducated morons a reason to clutter the Internet."
+        "W--": "A pox on the Web! It wastes time and bandwidth and just gives the uneducated morons a reason to clutter the Internet.",
+        "N++++": "I am Tim Pierce",
+        "N+++": "I read so many news groups that the next batch of news comes in before I finish reading the last batch, and I have to read for about 2 hours straight before I'm caught up on the morning's news. Then there's the afternoon...",
+        "N++": "I read all the news in a select handful of groups.",
+        "N+": "I read news recreationally when I have some time to kill.",
+        "N": "Usenet News? Sure, I read that once",
+        "N-": "News is a waste of my time and I avoid it completely",
+        "N--": "News sucks! 'Nuff said.",
+        "N---": "I work for Time Magazine.",
+        "N----": "I am a Scientologist.",
+        "N*": "All I do is read news"
         }
 
 dec = []
