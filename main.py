@@ -137,7 +137,15 @@ flags = {
         "N--": "News sucks! 'Nuff said.",
         "N---": "I work for Time Magazine.",
         "N----": "I am a Scientologist.",
-        "N*": "All I do is read news"
+        "N*": "All I do is read news",
+        "o+++++": "I am Steve Kinzler",
+        "o++++": "I am an active Priest.",
+        "o+++": "I was a Priest, but have retired.",
+        "o++": "I have made the Best Of Oracularities.",
+        "o+": "I have been incarnated at least once.",
+        "o": "I've submitted a question, but it has never been incarnated.",
+        "o-": "I sent my question to the wrong group and got flamed.",
+        "o--": "Who needs answers from a bunch of geeks anyhow?"
         }
 
 dec = []
