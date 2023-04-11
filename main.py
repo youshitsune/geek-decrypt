@@ -145,7 +145,17 @@ flags = {
         "o+": "I have been incarnated at least once.",
         "o": "I've submitted a question, but it has never been incarnated.",
         "o-": "I sent my question to the wrong group and got flamed.",
-        "o--": "Who needs answers from a bunch of geeks anyhow?"
+        "o--": "Who needs answers from a bunch of geeks anyhow?",
+        "K++++++": "I am Kibo",
+        "K+++++": "I've had sex with Kibo",
+        "K++++": "I've met Kibo",
+        "K+++": "I've gotten mail from Kibo",
+        "K++": "I've read Kibo",
+        "K+": "I like Kibo",
+        "K-": "I don't know who Kibo is",
+        "K--": "I dislike Kibo",
+        "K---": "I am currently hunting Kibo down with the intent of ripping his still-beating heart out of his chest and showing it to him as he dies",
+        "K----": "I am Xibo"
         }
 
 dec = []
