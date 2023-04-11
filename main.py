@@ -196,7 +196,14 @@ flags = {
         "PE+": "Balance the budget with spending cuts and an amendment.",
         "PE": "Distrust both government and business.",
         "PE-": "It's ok to increase government spending, so we can help more poor people. Tax the rich! Cut the defense budget!",
-        "PE--": "Capitalism is evil! Government should provide the services we really need. Nobody should be rich."
+        "PE--": "Capitalism is evil! Government should provide the services we really need. Nobody should be rich.",
+        "Y+++": "I am T.C. May",
+        "Y++": "I am on the cypherpunks mailing list and active around Usenet. I never miss an opportunity to talk about the evils of Clipper and ITAR and the NSA. Orwell's 1984 is more than a story, it is a warning to our's and future generations. I'm a member of the EFF.",
+        "Y+": "I have an interest and concern in privacy issues, but in reality I am not really all that active or vocal.",
+        "Y": "I'm pretty indifferent on the whole issue.",
+        "Y-": "It seems to me that all of these concerns are a little extreme. I mean, the government must be able to protect itself from criminals and the populace from indecent speech.",
+        "Y--": "Get a life. The only people that need this kind of protection are people with something to hide. I think cypherpunks are just a little paranoid.",
+        "Y---": "I am L. Detweiler."
         }
 
 dec = []
