@@ -155,7 +155,16 @@ flags = {
         "K-": "I don't know who Kibo is",
         "K--": "I dislike Kibo",
         "K---": "I am currently hunting Kibo down with the intent of ripping his still-beating heart out of his chest and showing it to him as he dies",
-        "K----": "I am Xibo"
+        "K----": "I am Xibo",
+        "w+++++": "I am Bill Gates",
+        "w++++": "I have Windows, Windows 95, Windows NT, and Windows NT Advanced Server all running on my SMP RISC machine. I haven't seen daylight in six months.",
+        "w+++": "I am a MS Windows programming god. I wrote a VxD driver to allow MS Windows and DOS to share the use of my waffle iron. P.S. Unix sux.",
+        "w++": "I write MS Windows programs in C and think about using C++ someday. I've written at least one DLL.",
+        "w+": "I have installed my own custom sounds, wallpaper, and screen savers so my PC walks and talks like a fun house. Oh yeah, I have a hundred TrueType(tm) fonts that I've installed but never used. I never lose Minesweeper and Solitaire",
+        "w": "Ok, so I use MS Windows, I don't have to like it.",
+        "w-": "I'm still trying to install MS Windows and have at least one peripheral that never works right",
+        "w--": "MS Windows is a joke operating system. Hell, it's not even an operating system. NT is Not Tough enough for me either. 95 is how may times it will crash an hour.",
+        "w---": "Windows has set back the computing industry by at least 10 years. Bill Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and then REALLY hurt."
         }
 
 dec = []
