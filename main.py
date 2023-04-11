@@ -102,7 +102,19 @@ flags = {
         "P": "I know Perl exists, but that's all.",
         "P-": "What's Perl got that awk and sed don't have?",
         "P--": "Perl users are sick, twisted programmers who are just showing off.",
-        "P---": "Perl combines the power of sh, the clarity of sed, and the performance of awk with the simplicity of C. It should be banned."
+        "P---": "Perl combines the power of sh, the clarity of sed, and the performance of awk with the simplicity of C. It should be banned.",
+        "P?": "What's Perl?",
+        "!P": "Our paranoid admin won't let us install Perl! Says it's a "\hacking tool"\.",
+        "L+++++": "I am Linus, grovel before me.",
+        "L++++": "I am a Linux wizard. I munch C code for breakfast and have enough room left over for a kernel debugging. I have so many patches installed that I lost track about ten versions ago. Linux newbies consider me a net.god.",
+        "L+++": "I use Linux exclusively on my system. I monitor comp.os.linux.* and even answer questions sometimes.",
+        "L++": "I use Linux ALMOST exclusively on my system. I've given up trying to achieve Linux.God status, but welcome the OS as a replacement for DOS. I only boot to DOS to play games.",
+        "L+": "I've managed to get Linux installed and even used it a few times. It seems like it is just another OS.",
+        "L": "I know what Linux is, but that's about all",
+        "L-": "I have no desire to use Linux and frankly don't give a rats patootie about it. There are other, better, operating systems out there. Like Mac, DOS, or Amiga-OS. Or, better yet even, would be another free Unix OS like FreeBSD.",
+        "L--": "Unix sucks. Because Linux = Unix. Linux Sucks. I worship Bill Gates.",
+        "L---": "I am Bill Gates."
+        
         }
 
 dec = []
