@@ -93,7 +93,16 @@ flags = {
         "U": "I have a Unix account to do my stuff in",
         "U-": "I have a VMS account.",
         "U--": "I've seen Unix and didn't like it. DEC rules!",
-        "U---": "Unix geeks are actually nerds in disguise."
+        "U---": "Unix geeks are actually nerds in disguise.",
+        "P+++++": "I am Larry Wall, Tom Christiansen, or Randal Schwartz.",
+        "P++++": "I don't write Perl, I speak it. Perl has superseded all other programming languages. I firmly believe that all programs can be reduced to a Perl one-liner. I use Perl to achieve U+++ status.",
+        "P+++": "Perl is a very powerful programming tool. Not only do I no longer write shell scripts, I also no longer use awk or sed. I use Perl for all programs of less than a thousand lines.",
+        "P++": "Perl is a powerful programming tool. I don't write shell scripts anymore because I write them in Perl.",
+        "P+": "I know of perl. I like perl. I just haven't learned much perl, but it is on my agenda.",
+        "P": "I know Perl exists, but that's all.",
+        "P-": "What's Perl got that awk and sed don't have?",
+        "P--": "Perl users are sick, twisted programmers who are just showing off.",
+        "P---": "Perl combines the power of sh, the clarity of sed, and the performance of awk with the simplicity of C. It should be banned."
         }
 
 dec = []
