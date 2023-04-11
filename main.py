@@ -121,7 +121,13 @@ flags = {
         "E-": "Emacs is too big and bloated for my tastes",
         "E--": "Emacs is just a fancy word processor",
         "E---": "Emacs sucks! vi forever!!!",
-        "E----": "Emacs sucks! pico forever!!!"
+        "E----": "Emacs sucks! pico forever!!!",
+        "W+++": "I am a WebMaster. Don't even think about trying to view my homepage without the latest version of Netscape. When I'm not on my normal net connection, I surf the web using my Newton and a cellular modem.",
+        "W++": "I have a homepage. I surf daily. My homepage is advertised in my .signature.",
+        "W+": "I have the latest version of Netscape, and wander the web only when there's something specific I'm looking for.",
+        "W": "I have a browser and a connection. Occasionally I'll use them.",
+        "W-": "The web is really a pain. Life was so much easier when you could transfer information by simple ASCII. Now everyone won't even consider your ideas unless you spiff them up with bandwidth-consuming pictures and pointless information links.",
+        "W--": "A pox on the Web! It wastes time and bandwidth and just gives the uneducated morons a reason to clutter the Internet."
         }
 
 dec = []
