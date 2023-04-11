@@ -190,7 +190,13 @@ flags = {
         "PS": "I really don't have an opinion; nobody's messing with my freedoms right now.",
         "PS-": "Label records! Keep dirty stuff off the TV and the Internet.",
         "PS--": "Oppose sex education, abortion rights, gay rights. Rush Limbaugh is my spokesman.",
-        "PS---": "Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in '96."
+        "PS---": "Repent left-wing sinners and change your wicked evil ways. Buchanan/Robertson in '96.",
+        "PE+++": "Abolish antitrust legislation. Raise taxes on everyone but the rich so that the money can trickle-down to the masses. ",
+        "PE++": "Keep the government off the backs of businesses. Deregulate as much as possible.",
+        "PE+": "Balance the budget with spending cuts and an amendment.",
+        "PE": "Distrust both government and business.",
+        "PE-": "It's ok to increase government spending, so we can help more poor people. Tax the rich! Cut the defense budget!",
+        "PE--": "Capitalism is evil! Government should provide the services we really need. Nobody should be rich."
         }
 
 dec = []
