@@ -113,8 +113,15 @@ flags = {
         "L": "I know what Linux is, but that's about all",
         "L-": "I have no desire to use Linux and frankly don't give a rats patootie about it. There are other, better, operating systems out there. Like Mac, DOS, or Amiga-OS. Or, better yet even, would be another free Unix OS like FreeBSD.",
         "L--": "Unix sucks. Because Linux = Unix. Linux Sucks. I worship Bill Gates.",
-        "L---": "I am Bill Gates."
-        
+        "L---": "I am Bill Gates.",
+        "E+++": "Emacs is my login shell!! M-x doctor is my psychologist! I use emacs to control my TV and toaster oven! All you vi people don't know what you're missing! I read alt.relgion.emacs, alt.sex.emacs, and comp.os.emacs.",
+        "E++": "I know and use elisp regularly!",
+        "E+": "Emacs is great! I read my mail and news with it!",
+        "E": "Yeah, I know what emacs is, and use it as my regular editor.",
+        "E-": "Emacs is too big and bloated for my tastes",
+        "E--": "Emacs is just a fancy word processor",
+        "E---": "Emacs sucks! vi forever!!!",
+        "E----": "Emacs sucks! pico forever!!!"
         }
 
 dec = []
