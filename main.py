@@ -177,7 +177,13 @@ flags = {
         "M+": "A Mac has it's uses and I use it quite often.",
         "M": "I use a Mac, but I'm pretty indifferent about it.",
         "M-": "Macs suck. All real geeks have a character prompt.",
-        "M--": "Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel."
+        "M--": "Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel.",
+        "V+++": "I am a VMS sysadmin. I wield far more power than those UNIX admins, because UNIX can be found on any dweeb's desktop. Power through obscurity is my motto.",
+        "V++": "Unix is a passing fad compared to the real power in the universe, my VMS system.",
+        "V+": "I tend to like VMS better than Unix",
+        "V": "I've used VMS.",
+        "V-": "Unix is much better than VMS for my computing needs.",
+        "V--": "I would rather smash my head repeatedly into a brick wall than suffer the agony of working with VMS. It's reminiscent of a dead and decaying pile of moose droppings. Unix rules the universe."
         }
 
 dec = []
