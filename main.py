@@ -172,7 +172,12 @@ flags = {
         "O-": "Tried it, didn't like it.",
         "O--": "I can't even get the thing to install!",
         "O---": "Windows RULES!!! Long live Bill Gates. (See w++++)",
-        "O----": "I am Bill Gates of Borg. OS/2 is irrelevant."
+        "O----": "I am Bill Gates of Borg. OS/2 is irrelevant.",
+        "M++": "I am a Mac guru. Anything those dos putzes and unix nerds can do, I can do better, and if not, I'll write the damn software to do it.",
+        "M+": "A Mac has it's uses and I use it quite often.",
+        "M": "I use a Mac, but I'm pretty indifferent about it.",
+        "M-": "Macs suck. All real geeks have a character prompt.",
+        "M--": "Macs do more than suck. They make a user stupid by allowing them to use the system without knowing what they are doing. Mac weenies have lower IQs than the fuzz in my navel."
         }
 
 dec = []
