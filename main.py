@@ -227,7 +227,14 @@ flags = {
         "5+": "Babylon 5 certainly presents a fresh perspective in the Sci-Fi universe. I watch it weekly.",
         "5": "I've seen it, I am pretty indifferent to it.",
         "5-": "This show is sub-par. The acting is wooden, the special effects are obviously poor quality. In general, it seems like a very cheap Star Trek ripoff.",
-        "5--": "You call this Sci-Fi? That is such a load of crap! This show is just a soap with bad actors, piss-poor effects, and lame storylines. Puh-leese."
+        "5--": "You call this Sci-Fi? That is such a load of crap! This show is just a soap with bad actors, piss-poor effects, and lame storylines. Puh-leese.",
+        "X++++": "I am Chris Carter",
+        "X+++": "This is the BEST show on TV, and it's about time. I've seen everything David Duchovny and Gillian Anderson have ever done that been recorded and I'm a loyal Duchovny/ Gillian Anderson fan. I've Converted at least 10 people. I have every episode at SP, debate the fine details on-line, and have a credit for at least 2 YAXAs. ",
+        "X++": "This is one of the better shows I've seen. I wish I'd taped everything from the start at SP, because I'm wearing out my EP tapes. I'll periodically debate online. I've Converted at least 5 people. I've gotten a YAXA.",
+        "X+": "I've Converted my family and watch the show when I remember. It's really kinda fun.",
+        "X": "Ho hum. Just another Fox show.",
+        "X-": "It's ok if you like paranoia and conspiracy stories, but, let's face it, it's crap.",
+        "X--": "If I wanted to watch this kind of stuff, I'd talk to Oliver Stone"
         }
 
 dec = []
