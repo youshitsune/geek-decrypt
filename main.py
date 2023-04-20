@@ -273,7 +273,15 @@ flags = {
         "D-": "I've played the game and really didn't think it was all that impressive.",
         "D--": "It's an overly-violent game and pure crap",
         "D---": "To hell with Doom, I miss Zork.",
-        "D----": "I've seen better on my Atari 2600"
+        "D----": "I've seen better on my Atari 2600",
+        "G+++++": "I am Robert Hayden",
+        "G++++": "I have made a suggestion for future versions of the code (note that making a suggestion just to get a G++++ rating doesn't count, you also have to at least qualify for a G+++ rating :-)",
+        "G+++": "I have memorized the entire geek code, and can decode others' codes in my head. I know by heart where to find the current version of the code on the net.",
+        "G++": "I know what each letter means, but sometimes have to look up the specifics.",
+        "G+": "I was once G++ (or higher), but the new versions are getting too long and too complicated.",
+        "G": "I know what the geek code is and even did up this code.",
+        "G-": "What a tremendous waste of time this Geek Code is.",
+        "G--": "Not only a waste of time, but it obviously shows that this Hayden guy needs a life."
         }
 
 dec = []
