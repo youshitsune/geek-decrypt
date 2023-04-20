@@ -34,7 +34,7 @@ flags = {
         "d++": "I tend to wear conservative dress such as a business suit or worse, a tie.",
         "d+": "Good leisure-wear. Slacks, button-shirt, etc. No jeans, tennis shoes, or t-shirts.",
         "d": "I dress a lot like those found in catalog ads. Bland, boring, without life or meaning.",
-        "d-": "I'm usually in jeans and a t-shirt.",
+        "d-": "I\'m usually in jeans and a t-shirt.",
         "d--": "My t-shirts go a step further and have a trendy political message on them.",
         "d---": "Punk dresser, including, but not limited to, torn jeans and shirts, body piercings, and prominent tattoos.",
         "dx": "Cross Dresser",
@@ -212,7 +212,15 @@ flags = {
         "PGP-": "I don\'t have anything to hide.",
         "PGP--": "I feel that the glory of the Internet is in the anarchic, trusting environment that so nurtures the exchange of information. Encryption just bogs that down.",
         "PGP---": "If you support encryption on the Internet, you must be a drug dealer or terrorist or something like that.",
-        "PGP----": "Oh, here is something you all can use that is better (insert clipper here)."
+        "PGP----": "Oh, here is something you all can use that is better (insert clipper here).",
+        "t+++": "It's not just a TV show, it's a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.",
+        "t++": "It's the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I've built a few of the model kits too. But you'll never catch me at one of those conventions. Those people are kooks.",
+        "t+": "It\'s a damn fine TV show and is one of the only things good on television any more.",
+        "t": "It\'s just another TV show",
+        "t-": "Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I'm missing something but I just think it is bad drama.",
+        "t--": "Star Trek is just another Space Opera. William Shatner isn\'t an actor, he\'s a poser! And what\'s with this Jean-Luc Picard? A Frenchman with a British accent? Come on. I\'d only watch this show if my remote control broke. Isn\'t Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons?",
+        "t---": "Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t---)",
+        "t*": "Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t---)"
         }
 
 dec = []
