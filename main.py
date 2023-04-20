@@ -234,7 +234,15 @@ flags = {
         "X+": "I've Converted my family and watch the show when I remember. It's really kinda fun.",
         "X": "Ho hum. Just another Fox show.",
         "X-": "It's ok if you like paranoia and conspiracy stories, but, let's face it, it's crap.",
-        "X--": "If I wanted to watch this kind of stuff, I'd talk to Oliver Stone"
+        "X--": "If I wanted to watch this kind of stuff, I'd talk to Oliver Stone",
+        "R+++": "I've written and published my own gaming materials.",
+        "R++": "There is no life outside the role of the die. I know all of piddly rules of (chosen game). _MY_ own warped rules scare the rest of the players.",
+        "R+": "I've got my weekly sessions set up and a character that I know better than I know myself.",
+        "R": "Role-Playing? That's just something to do to kill a Saturday afternoon",
+        "R-": "Gosh, what an utter waste of time!",
+        "R--": "Role-Players are instruments of pure evil.",
+        "R---": "I work for T$R.",
+        "R*": "I thought life WAS role-playing?"
         }
 
 dec = []
