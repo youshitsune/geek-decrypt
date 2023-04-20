@@ -299,7 +299,17 @@ flags = {
         "h---": "Married, (persons living romantically with someone might as well label themselves h---, you're as good as there already.)",
         "h----": "Married with children - Al Bundy can sympathize",
         "h!": "I am stuck living with my parents!",
-        "h*": "I'm not sure where I live anymore. This lab/workplace seems like home to me."
+        "h*": "I'm not sure where I live anymore. This lab/workplace seems like home to me.",
+        "r+++": "Found someone, dated, and am now married.",
+        "r++": "I've dated my current S.O. for a long time.",
+        "r+": "I date frequently, bouncing from one relationship to another.",
+        "r": "I date periodically.",
+        "r-": "I have difficulty maintaining a relationship.",
+        "r--": "People just aren't interested in dating me.",
+        "r---": "I'm beginning to think that I'm a leper or something, the way people avoid me like the plague.",
+        "!r": "I've never had a relationship.",
+        "r*": "signifying membership in the SBCA (Sour Bachelor(ette)'s Club of America). The motto is 'Bitter, but not Desperate'. First founded at Caltech.",
+        "r%": "I was going out with someone, but the asshole dumped me."
         }
 
 dec = []
