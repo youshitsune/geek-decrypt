@@ -215,12 +215,19 @@ flags = {
         "PGP----": "Oh, here is something you all can use that is better (insert clipper here).",
         "t+++": "It's not just a TV show, it's a religion. I know all about warp field dynamics and the principles behind the transporter. I have memorized the TECH manual. I speak Klingon. I go to cons with Vulcan ears on. I have no life.",
         "t++": "It's the best show around. I have all the episodes and the movies on tape and can quote entire scenes verbatim. I've built a few of the model kits too. But you'll never catch me at one of those conventions. Those people are kooks.",
-        "t+": "It\'s a damn fine TV show and is one of the only things good on television any more.",
-        "t": "It\'s just another TV show",
+        "t+": "It's a damn fine TV show and is one of the only things good on television any more.",
+        "t": "It's just another TV show",
         "t-": "Maybe it is just me, but I have no idea what the big deal with Star Trek is. Perhaps I'm missing something but I just think it is bad drama.",
-        "t--": "Star Trek is just another Space Opera. William Shatner isn\'t an actor, he\'s a poser! And what\'s with this Jean-Luc Picard? A Frenchman with a British accent? Come on. I\'d only watch this show if my remote control broke. Isn\'t Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons?",
+        "t--": "Star Trek is just another Space Opera. William Shatner isn't an actor, he's a poser! And what's with this Jean-Luc Picard? A Frenchman with a British accent? Come on. I'd only watch this show if my remote control broke. Isn't Voyager just a rehash of Lost in Space? Has Sisko even breathed in the last two seasons?",
         "t---": "Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t---)",
-        "t*": "Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t---)"
+        "t*": "Star Trek SUCKS! It is the worst crap I have ever seen! Hey, all you trekkies out there, GET A LIFE! (William Shatner is a t---)",
+        "5++++": "I am J. Michael Straczynski",
+        "5+++": "I am a True Worshipper of the Church of Joe who lives eats breathes and thinks Babylon 5, and has Evil thoughts about stealing Joe's videotape archives just to see episodes earlier. I am planning to break into the bank and steal the triple-encoded synopsis of the 5-year arc.",
+        "5++": "Finally a show that shows what a real future would look like. None of this Picardian \"Let's talk about it and be friends\" crap. And what's this? We finally get to see a bathroom! Over on that Enterprise, they've been holding it for over seven years!",
+        "5+": "Babylon 5 certainly presents a fresh perspective in the Sci-Fi universe. I watch it weekly.",
+        "5": "I've seen it, I am pretty indifferent to it.",
+        "5-": "This show is sub-par. The acting is wooden, the special effects are obviously poor quality. In general, it seems like a very cheap Star Trek ripoff.",
+        "5--": "You call this Sci-Fi? That is such a load of crap! This show is just a soap with bad actors, piss-poor effects, and lame storylines. Puh-leese."
         }
 
 dec = []
