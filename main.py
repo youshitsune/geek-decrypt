@@ -249,7 +249,14 @@ flags = {
         "tv": "I watch only the shows that are actually worthwhile, such as those found on PBS.",
         "tv-": "I watch tv for the news and 'special programming.'",
         "tv--": "I turn my tv on during natural disasters.",
-        "!tv": "I do not own a television."
+        "!tv": "I do not own a television.",
+        "b++++": "I read a book a day. I have library cards in three states. I have discount cards from every major bookstore. I've ordered books from another country to get my Favorite Author Fix.",
+        "b+++": "I consume a few books a week as part of a staple diet.",
+        "b++": "I find the time to get through at least one new book a month.",
+        "b+": "I enjoy reading, but don't get the time very often.",
+        "b": "I read the newspaper and the occasional book.",
+        "b-": "I read when there is no other way to get the information.",
+        "b--": "I did not actually READ the geek code, I just had someone tell me."
         }
 
 dec = []
