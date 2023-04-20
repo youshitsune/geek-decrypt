@@ -265,7 +265,15 @@ flags = {
         "DI": "I read Dilbert infrequently, rarely understanding it",
         "DI-": "Is that the comic about the engineers?",
         "DI--": "Don't read it, but I think the dog is kinda cute.",
-        "DI---": "I don't think it's funny to make fun of managers trying their best to run their organizational units."
+        "DI---": "I don't think it's funny to make fun of managers trying their best to run their organizational units.",
+        "D+++": "I crank out PWAD files daily, complete with new monsters, weaponry, sounds and maps. I'm a DOOM God. I can solve the original maps in nightmare mode with my eyes closed.",
+        "D++": "I've played the shareware version and bought the real one and I'm actually pretty good at the game. I occasionally download PWAD files and play them too.",
+        "D+": "It's a fun, action game that is a nice diversion on a lazy afternoon.",
+        "D": "I've played the game and I'm pretty indifferent.",
+        "D-": "I've played the game and really didn't think it was all that impressive.",
+        "D--": "It's an overly-violent game and pure crap",
+        "D---": "To hell with Doom, I miss Zork.",
+        "D----": "I've seen better on my Atari 2600"
         }
 
 dec = []
