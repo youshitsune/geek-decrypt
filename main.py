@@ -256,7 +256,16 @@ flags = {
         "b+": "I enjoy reading, but don't get the time very often.",
         "b": "I read the newspaper and the occasional book.",
         "b-": "I read when there is no other way to get the information.",
-        "b--": "I did not actually READ the geek code, I just had someone tell me."
+        "b--": "I did not actually READ the geek code, I just had someone tell me.",
+        "DI+++++": "I am Scott Adams.",
+        "DI++++": "I've received mail from Scott Adams. I'm in the DNRC (Dogbert's New Ruling Class).",
+        "DI+++": "I am a Dilbert prototype",
+        "DI++": "I work with people that act a lot like Dilbert and his boss.",
+        "DI+": "I read Dilbert daily, often understanding it",
+        "DI": "I read Dilbert infrequently, rarely understanding it",
+        "DI-": "Is that the comic about the engineers?",
+        "DI--": "Don't read it, but I think the dog is kinda cute.",
+        "DI---": "I don't think it's funny to make fun of managers trying their best to run their organizational units."
         }
 
 dec = []
