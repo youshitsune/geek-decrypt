@@ -281,7 +281,16 @@ flags = {
         "G+": "I was once G++ (or higher), but the new versions are getting too long and too complicated.",
         "G": "I know what the geek code is and even did up this code.",
         "G-": "What a tremendous waste of time this Geek Code is.",
-        "G--": "Not only a waste of time, but it obviously shows that this Hayden guy needs a life."
+        "G--": "Not only a waste of time, but it obviously shows that this Hayden guy needs a life.",
+        "e+++++": "I am Stephen Hawking",
+        "e++++": "Managed to get my Ph.D.",
+        "e+++": "Got a Masters degree",
+        "e++": "Got a Bachelors degree",
+        "e+": "Got an Associates degree",
+        "e": "Finished High School",
+        "e-": "Haven't finished High School",
+        "e--": "Haven't even entered High School",
+        "e*": "I learned everything there is to know about life from the \"Hitchhiker's Trilogy\"."
         }
 
 dec = []
