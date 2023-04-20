@@ -317,7 +317,7 @@ flags = {
         "y+++++": "I am Madonna",
         "z+++++": "I am Madonna",
         "x++++": "I have a few little rug rats to prove I've been there. Besides, with kids around, who has time for sex?",
-        "y++++": "I have a few little rug rats to prove I've been there. Besides, with kids around, who has time for sex?".
+        "y++++": "I have a few little rug rats to prove I've been there. Besides, with kids around, who has time for sex?",
         "z++++": "I have a few little rug rats to prove I've been there. Besides, with kids around, who has time for sex?",
         "x+++": "I'm married, so I can get it (theoretically) whenever I want.",
         "y+++": "I'm married, so I can get it (theoretically) whenever I want.",
@@ -339,12 +339,12 @@ flags = {
         "z--": "Not having sex because I just can't get any...",
         "x---": "Not having sex because I'm a nun or a priest.",
         "y---": "Not having sex because I'm a nun or a priest.",
-        "z---": "Not having sex because I'm a nun or a priest.".
+        "z---": "Not having sex because I'm a nun or a priest.",
         "x*": "I'm a pervert.",
         "y*": "I'm a pervert.",
         "z*": "I'm a pervert.",
         "x**": "I've been known to make perverts look like angels.",
-        "y**": "I've been known to make perverts look like angels.".
+        "y**": "I've been known to make perverts look like angels.",
         "z**": "I've been known to make perverts look like angels.",
         "!x": "Sex? What's that? I've had no sexual experiences.",
         "!y": "Sex? What's that? I've had no sexual experiences.",
@@ -360,14 +360,24 @@ flags = {
 
 dec = []
 for i in geek_code:
-    if len(i.split("/")) == 1:
-        dec.append(flags[i])
+    if len(i.split("/")) == 1 and "@" not in list(i) and ">" not in list(i) and "$" not in list(i):
+        if i.startswith("U"):
+            dec.append(flags["".join(list(i)[1:])])
+        else:
+            dec.append(flags[i])
+    elif "@" in list(i) or ">" in list(i) or "$" in list(i):
+        l = list(i)
+        l.remove("@")
+        l.remove(">")
+        l.remove("$")
+        dec.append(flags["".join(l)])
     else:
         for j in i.split("/"):
             if j.startswith("G"):
                 dec.append(flags[j])
             else:
                 dec.append(flags["G"+j])
+
 
 
 print(";".join(dec))
