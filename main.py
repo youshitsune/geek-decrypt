@@ -203,7 +203,16 @@ flags = {
         "Y": "I'm pretty indifferent on the whole issue.",
         "Y-": "It seems to me that all of these concerns are a little extreme. I mean, the government must be able to protect itself from criminals and the populace from indecent speech.",
         "Y--": "Get a life. The only people that need this kind of protection are people with something to hide. I think cypherpunks are just a little paranoid.",
-        "Y---": "I am L. Detweiler."
+        "Y---": "I am L. Detweiler.",
+        "PGP++++": "I am Philip Zimmerman",
+        "PGP+++": "I don't send or answer mail that is not encrypted, or at the very least signed. If you are reading this without decrypting it first, something is wrong. IT DIDN'T COME FROM ME!",
+        "PGP++": "I have the most recent version and use it regularly",
+        "PGP+": "\"Finger me for my public key\"",
+        "PGP": "I\'ve used it, but stopped long ago.",
+        "PGP-": "I don\'t have anything to hide.",
+        "PGP--": "I feel that the glory of the Internet is in the anarchic, trusting environment that so nurtures the exchange of information. Encryption just bogs that down.",
+        "PGP---": "If you support encryption on the Internet, you must be a drug dealer or terrorist or something like that.",
+        "PGP----": "Oh, here is something you all can use that is better (insert clipper here)."
         }
 
 dec = []
