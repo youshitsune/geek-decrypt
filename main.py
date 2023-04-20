@@ -242,7 +242,14 @@ flags = {
         "R-": "Gosh, what an utter waste of time!",
         "R--": "Role-Players are instruments of pure evil.",
         "R---": "I work for T$R.",
-        "R*": "I thought life WAS role-playing?"
+        "R*": "I thought life WAS role-playing?",
+        "tv+++": "There's nothing I can experience \"out there\" that I can't see coming over my satellite dish. I wish there were MORE channels. I live for the O.J. Trial.",
+        "tv++": "I just leave the tv on, to make sure I don't miss anything.",
+        "tv+": "I watch some tv every day.",
+        "tv": "I watch only the shows that are actually worthwhile, such as those found on PBS.",
+        "tv-": "I watch tv for the news and 'special programming.'",
+        "tv--": "I turn my tv on during natural disasters.",
+        "!tv": "I do not own a television."
         }
 
 dec = []
