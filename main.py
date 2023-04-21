@@ -354,31 +354,58 @@ flags = {
         "z?": "It's none of your business what my sex life is like (this is used to denote your gender only).",
         "!x+": "Sex? What's that? No experience, willing to learn!",
         "!y+": "Sex? What's that? No experience, willing to learn!",
-        "!z+": "Sex? What's that? No experience, willing to learn!"
+        "!z+": "Sex? What's that? No experience, willing to learn!",
+        "@": "For this variable I vary wildly.",
+        "$": "Get paid"
 
         }
 
 dec = []
+
+def crossover(s):
+    a = s.index("(")
+    b = s.index(")")
+    return "".join(s[a+1:b])
+
+def wannabe(s):
+    a = s.index(">")
+    return "".join(s[a+1:])
+
 for i in geek_code:
     if len(i.split("/")) == 1 and "@" not in list(i) and ">" not in list(i) and "$" not in list(i):
         if i.startswith("U"):
             dec.append(flags["".join(list(i)[1:])])
         else:
             dec.append(flags[i])
-    elif "@" in list(i) or ">" in list(i) or "$" in list(i):
-        l = list(i)
-        l.remove("@")
-        l.remove(">")
-        l.remove("$")
-        dec.append(flags["".join(l)])
-    else:
+    elif len(i.split("/")) > 1:
         for j in i.split("/"):
             if j.startswith("G"):
                 dec.append(flags[j])
             else:
                 dec.append(flags["G"+j])
+    else:
+        first = True
+        gen = []
+        for j in list(i):
+            if j in ["@", "(", ">", "$"]:
+                if first:
+                    gen = [flags["".join(gen)]]
+                    first = False
+                if j == "@":
+                    gen.append("For this variable I vary wildly.")
+                elif j == "(":
+                    gen.append(flags[list(i)[0]+crossover(list(i))])
+                elif j == ">":
+                    if wannabe(list(i)) in ["$", "@"]:
+                        gen.append("wannabe"+flags[wannabe(list(i))])
+                    else:
+                        gen.append("wannabe "+flags[str(list(i)[0])+wannabe(list(i))])
+            else:
+                gen.append(j)
+        for i in gen:
+            dec.append(i)
+
 
 
 
 print(";".join(dec))
-
